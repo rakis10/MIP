@@ -1,0 +1,12 @@
+Neurónové siete
+Esej bude zameraná na neurónové siete, ich vıhody a nevıhody,
+vplyv na rôzne oblasti spoloèenského ivota. V prvej èasti našej
+eseje sa budeme venova rozdeleniu a fungovaniu tıchto sietí, 
+uvedieme príklad konkrétneho triedenia pomocou kninice Tensorflow. 
+V druhej èasti práce sa budeme sústredi na praktické vyuitie neurónovıch
+sietí v medicíne pri urèovaní diagnóz na základe príznakov a vısledkov 
+laboratórnych vyšetrení, skúmania motoriky,  vo finanèníctve pri modelovaní
+vıvoja trhu, v doprave, ininierstve, fyzike a v neposlednom rade vo vıvoji
+hrania poèítaèovıch hier. V poslednej èasti sa budeme zaobera budúcnosou 
+neurónovıch sietí, oblastiam, ktoré zasiahnu a monımi smermi vıvoja. 
+Ale takisto morálnymi problémami, ktoré môu nasta a vıvojom ako takım. 
